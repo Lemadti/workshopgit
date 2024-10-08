@@ -6,5 +6,5 @@ Hello, World!
 
 ola
 
-O GLUA é fixe
+O GLUA é fixe!
 
